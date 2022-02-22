@@ -1,0 +1,64 @@
+for 10 flows
+-----------------
+
+
+Network Throughput = 15.936163387875993 kbps
+Packet Loss Ratio  = 10.198878123406425 %
+Packet Delivery Ratio  = 89.03620601733809 %
+End to end delay  = 85.5383550973654 ms
+(MAY BE DROP RATIO = 0.7649158592554819 %
+
+
+
+
+for 20 flows
+-----------------
+
+
+
+
+Network Throughput = 46.41891354210221 kbps
+Packet Loss Ratio  = 5.610072208850212 %
+Packet Delivery Ratio  = 93.55674875023143 %
+End to end delay  = 75.22998891747476 ms
+(MAY BE DROP RATIO = 0.8331790409183484 %
+
+
+
+for 30 flows
+--------------------
+
+
+
+Network Throughput = 46.298284619416876 kbps
+Packet Loss Ratio  = 10.849878091257402 %
+Packet Delivery Ratio  = 88.22709857192615 %
+End to end delay  = 66.62254072246348 ms
+(MAY BE DROP RATIO = 0.9230233368164402 %
+
+
+
+for 40 flows
+-----------------------
+
+
+(ekhane 20 simulation time porjonto onek node er value zero asche)
+
+
+Network Throughput = 200.15681183877456 kbps
+Packet Loss Ratio  = 17.906432748538013 %
+Packet Delivery Ratio  = 79.2982456140351 %
+End to end delay  = 96.88157098820058 ms
+(MAY BE DROP RATIO = 2.7953216374269005 %
+
+
+for 50 flows
+--------------------------
+
+
+
+Network Throughput = 47.31437798625044 kbps
+Packet Loss Ratio  = 28.639896373056995 %
+Packet Delivery Ratio  = 67.40932642487046 %
+End to end delay  = 180.89636587240582 ms
+(MAY BE DROP RATIO = 3.950777202072539 %

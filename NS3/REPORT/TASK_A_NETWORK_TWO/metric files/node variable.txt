@@ -1,0 +1,83 @@
+for 10 nodes
+-------------
+
+
+
+
+
+Network Throughput = 37.451662971548025 kbps
+Packet Loss Ratio  = 8.112913980884642 %
+Packet Delivery Ratio  = 90.99799955545677 %
+End to end delay  = 65.86322178798241 ms
+(MAY BE DROP RATIO = 0.8890864636585907 %
+
+
+
+
+
+for 20 nodes
+------------------
+
+
+
+
+
+
+Network Throughput = 45.69544444781101 kbps
+Packet Loss Ratio  = 2.7210884353741496 %
+Packet Delivery Ratio  = 96.57920310981535 %
+End to end delay  = 60.16207687663513 ms
+(MAY BE DROP RATIO = 0.6997084548104956 %
+
+
+
+for 30 nodes
+--------------------
+
+
+
+
+
+
+
+Network Throughput = 15.404990094960489 kbps
+Packet Loss Ratio  = 7.88762830902215 %
+Packet Delivery Ratio  = 90.81577525661805 %
+End to end delay  = 87.51420582986317 ms
+(MAY BE DROP RATIO = 1.2965964343598055 %
+
+
+for 40 nodes
+------------------------
+
+
+
+
+Network Throughput = 0.22408287403766414 kbps
+Packet Loss Ratio  = 71.05263157894737 %
+Packet Delivery Ratio  = 16.842105263157894 %
+End to end delay  = 1755.8904375 ms
+(MAY BE DROP RATIO = 12.105263157894736 %
+
+
+for 50 nodes
+------------------
+
+
+
+
+
+
+Network Throughput = 0.19126924965000638 kbps
+Packet Loss Ratio  = 76.78571428571429 %
+Packet Delivery Ratio  = 11.904761904761903 %
+End to end delay  = 797.8302 ms
+(MAY BE DROP RATIO = 11.30952380952381 %
+
+
+
+
+
+
+
+

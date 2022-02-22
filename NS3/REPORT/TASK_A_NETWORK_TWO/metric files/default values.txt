@@ -1,0 +1,6 @@
+flows = 10
+simulation time = 100
+application layer speed = 10*70*8
+segment size = 70
+no of nodes = 20
+speed = 1

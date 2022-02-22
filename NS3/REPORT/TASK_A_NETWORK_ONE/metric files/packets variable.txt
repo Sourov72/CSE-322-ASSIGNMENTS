@@ -1,0 +1,71 @@
+for 100 packets
+------------------
+
+
+
+
+
+Network Throughput = 9515.147921949874 kbps
+Packet Loss Ratio  = 0.8085354672001335 %
+Packet Delivery Ratio  = 98.18565752549249 %
+End to end delay  = 157.16315014998017 ms
+(MAY BE DROP RATIO = 1.0058070073073824 %
+
+
+for 200 packets
+---------------
+
+
+
+
+
+Network Throughput = 15600.644234700309 kbps
+Packet Loss Ratio  = 3.9720746066479107 %
+Packet Delivery Ratio  = 95.68406793789725 %
+End to end delay  = 78.045927168184 ms
+(MAY BE DROP RATIO = 0.34385745545482965 %
+
+
+
+for 300 packets
+---------------
+
+
+
+
+
+Network Throughput = 18231.46794883126 kbps
+Packet Loss Ratio  = 1.14602918793088 %
+Packet Delivery Ratio  = 98.50479004387142 %
+End to end delay  = 75.49660061806944 ms
+(MAY BE DROP RATIO = 0.34918076819769 %
+
+
+
+for 400 packets
+------------------
+
+
+
+
+
+Network Throughput = 18645.560979173075 kbps
+Packet Loss Ratio  = 0.5920053088381677 %
+Packet Delivery Ratio  = 99.06746066395404 %
+End to end delay  = 88.56858044386469 ms
+(MAY BE DROP RATIO = 0.34053402720779563 %
+
+
+for 500 packets
+-------------
+
+
+
+
+
+Network Throughput = 18061.466726134957 kbps
+Packet Loss Ratio  = 1.3623339880705676 %
+Packet Delivery Ratio  = 98.40160020182725 %
+End to end delay  = 80.47319525326887 ms
+(MAY BE DROP RATIO = 0.23606581010217503 %
+

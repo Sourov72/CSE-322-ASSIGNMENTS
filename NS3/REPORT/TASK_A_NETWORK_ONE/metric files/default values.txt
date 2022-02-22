@@ -1,0 +1,5 @@
+flows = 15
+simulation time = 20
+application layer speed = 512kbps
+segment size = 1024
+no of nodes = 30

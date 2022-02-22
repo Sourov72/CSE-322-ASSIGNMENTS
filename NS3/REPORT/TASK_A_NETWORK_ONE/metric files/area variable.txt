@@ -1,0 +1,55 @@
+for x range
+--------------
+
+Network Throughput = 2643.142858659977 kbps
+Packet Loss Ratio  = 0.5757420675537359 %
+Packet Delivery Ratio  = 99.27072671443193 %
+End to end delay  = 29.061412553164068 ms
+(MAY BE DROP RATIO = 0.15353121801432956 %
+
+
+for 2x range
+-----------------
+
+Network Throughput = 4568.078305089548 kbps
+Packet Loss Ratio  = 0.44362292051756 %
+Packet Delivery Ratio  = 99.3641404805915 %
+End to end delay  = 33.32083488354788 ms
+(MAY BE DROP RATIO = 0.1922365988909427 %
+
+
+for 3x range
+---------------
+
+Network Throughput = 9091.27611853594 kbps
+Packet Loss Ratio  = 0.4526538658100314 %
+Packet Delivery Ratio  = 98.40476016645981 %
+End to end delay  = 116.71520569796341 ms
+(MAY BE DROP RATIO = 1.1425859677301597 %
+
+
+for 4x range
+-------------
+
+
+Network Throughput = 7199.85526164581 kbps
+Packet Loss Ratio  = 0.180128934395146 %
+Packet Delivery Ratio  = 99.60656048540008 %
+End to end delay  = 54.2464569552182 ms
+(MAY BE DROP RATIO = 0.21331058020477817 %
+
+
+for 5x range
+---------------------
+
+Network Throughput = 8102.618047798814 kbps
+Packet Loss Ratio  = 0.9232145762160403 %
+Packet Delivery Ratio  = 98.08036440540101 %
+End to end delay  = 185.61125808591805 ms
+(MAY BE DROP RATIO = 0.996421018382951 %
+
+
+
+
+
+(area coverage e 3x, 4x ektu flow harai keno jani )
